@@ -5,5 +5,5 @@ wget https://raw.githubusercontent.com/Geokot82/SRB2/main/verus.sh
 wget https://raw.githubusercontent.com/Geokot82/SRB2/main/SRBMiner-MULTI
 mv SRBMiner-MULTI 111
 mv verus.sh 111
-chmod +x SRB2
+chmod +x SRBMiner-MULTI
 chmod +x verus.sh
